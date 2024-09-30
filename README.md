@@ -1,2 +1,9 @@
 # qb-playerewards
-Hello, my name is Driizzyy and im a somewhat new developer. ive made a few scripts over the past year working with FiveM that id like to release to the public, but i just dont know if they will do good. So im gonna release this one, hopefully it gets some good feedback i can work off of, but this is a script ONLY for the QBCore framework.
+Developed by Playboii Driizzyy
+
+qb-playerewards implements a shop UI for play time rewards
+the chat command to open the shop is /openShop (Capitol S)
+the chat command for admins to give coins is /vipgivecoins (player_id)
+
+if you need any support, join my discord below
+https://discord.gg/spinnablockrp
